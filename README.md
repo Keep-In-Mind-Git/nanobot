@@ -72,6 +72,8 @@
 
 💎 **Easy-to-Use**: One-click to deploy and you're ready to go.
 
+🤖 **Self-Improving**: Powered by nanobot AI assistant — can learn, adapt, and improve over time.
+
 ## 🏗️ Architecture
 
 <p align="center">
